@@ -6,7 +6,7 @@
 using namespace std; 
 
 int main() {
-    SetConsoleCP(1251);
+    SetConsoleCP(1251); //heccbicubvajidfhcvuiohvpiuch
     SetConsoleOutputCP(1251);
     int minimum = 1000; // задал большой минимум
     int intotal; // все дома
